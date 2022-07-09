@@ -1,1 +1,1 @@
-web : gunicorn petrolpump.wsgi --log-file -
+web: gunicorn petrolpump.wsgi --log-file -
